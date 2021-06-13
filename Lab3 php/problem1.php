@@ -1,4 +1,7 @@
 <html>
+ <head>
+     <title>Problem-1</title>
+ </head>
 <body>
 A quick brown <b>
 <?php 

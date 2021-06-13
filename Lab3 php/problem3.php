@@ -1,3 +1,8 @@
+<html>
+ <head>
+     <title>Problem-3</title>
+ </head>
+</html> 
 <?php
 $length = 5;
 $width = 2;

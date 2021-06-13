@@ -1,4 +1,10 @@
+<html>
+ <head>
+     <title>Problem-2</title>
+ </head>
+</html> 
 <?php
+
 $marks =90;
 if($marks>=90) {echo "A+";}
 elseif ($marks>80 && $marks<90) {echo "A";}
