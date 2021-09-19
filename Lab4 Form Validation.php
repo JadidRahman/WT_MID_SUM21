@@ -92,7 +92,7 @@
 				}
 			}
 			else	
-			$err_pass="Password length must be 8 or longer";
+			$err_pass="Pass length must be 8 or longer";
 			
 			if($_POST["cpass"]!=$_POST["pass"])
 			{
